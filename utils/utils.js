@@ -19,3 +19,9 @@ function newFeatureadd()
     console.log("new feature is added")
     console.log("new feature is added aa")
 }
+
+function newFeatureaddB()
+{
+    console.log("new feature is added")
+    console.log("new feature is added bb")
+}
