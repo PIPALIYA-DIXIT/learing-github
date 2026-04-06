@@ -25,3 +25,8 @@ function newFeatureaddB()
     console.log("new feature is added")
     console.log("new feature is added bb")
 }
+
+
+function newaddd(){
+    console.log("new add function is called")
+}
