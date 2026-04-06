@@ -12,4 +12,9 @@ console.log("commit is change")
 function remobve()
 {
     console.log("remove function si called")
+} 
+
+function newFeatureadd()
+{
+    console.log("new feature is added")
 }
