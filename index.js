@@ -13,3 +13,9 @@ function calculate()
 {
     console.log("function is calculate");
 }
+
+function age()
+{
+    console.log("age is calculate")
+}
+
