@@ -1,4 +1,4 @@
 function add()
 {
-    console
+    console.log("Hello this is hello page");
 }
