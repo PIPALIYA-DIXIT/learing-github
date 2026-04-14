@@ -6,3 +6,9 @@ function add()
 function hello(){
     consloge.log("new file is added")
 }
+
+
+function addnew()
+{
+    console.log("new function is added");
+}
